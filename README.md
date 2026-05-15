@@ -13,4 +13,4 @@
 
 ## Rendered output
 
-
+- link to any rendered pdf from a qmd
