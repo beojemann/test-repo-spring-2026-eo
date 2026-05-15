@@ -1,2 +1,9 @@
 # test-repo-spring-2026-eo
-repo for testing out using git/github
+
+## General information 
+
+
+
+## Data and file information
+
+## Rendered output
